@@ -76,3 +76,4 @@ The probability of getting a result like this is, in high school terms .00000942
 
 <!--Discussion and conclusion here. If you found a relationship be sure to consider whether the relationship occurs because one of the variavbles causes the other, or whether they perhasps are related for some other reason. Watch the chapter 6 videos from the GeorgeTown videos collection.!-->
 
+First we copied the command from our helper file and then we changed the action plot to boxplot and changed the agreements to match our data, we also commented on the data. Then we gathered the numerical descriptive results by using the command from the helper file, and changed the agreements again and also commented on the data. Finally we ran a t-test using the command from the helper file and once again changed the agreement and changed our scientific notation p-valueto a decimal value, as we did in high schoo.
